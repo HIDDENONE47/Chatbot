@@ -1,0 +1,16 @@
+# Environment variables (SENSITIVE!)
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+
+# Vector store (can be regenerated)
+vectorstore/
+
+# IDE
+.vscode/
